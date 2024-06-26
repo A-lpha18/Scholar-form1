@@ -1,0 +1,50 @@
+*{
+    background-color:rgb(38, 38, 85);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#top{
+    background-color: skyblue;
+    border-radius: 10px;
+    background: transparent;
+    color: beige;
+
+}
+#top:hover{
+    background-color: salmon;
+    color: papayawhip;
+}
+.BasicDetails{
+    color: white;
+    background-color:rgb(64, 64, 170);
+    margin-left: 120px;
+    margin-right: 120px;
+    padding-bottom: 130px;
+    border-style: solid;
+    border-color: azure;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.BasicDetails:hover{
+    background-color: salmon;
+    color: seashell;
+}
+#Firstname{
+    background: transparent;
+}
+#n1{
+    border: 0cap;
+    background-color: white;
+}
+#n2{
+    background-color: white;
+    padding-bottom: 80px;
+}
+
+#submit{
+    text-align: center;
+    background-color: white;
+    
+}
+
